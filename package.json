@@ -1,14 +1,14 @@
 {
-    "name": "synthwave-x-fluoromachine-epic-animations",
-    "displayName": "Synthwave x Fluoromachine & epic animations",
-    "description": "This theme brings crazy 80's animations into your VS code 🚀🎉",
+    "name": "synthdragon",
+    "displayName": "Awaken The Synth-Dragon - Theme for VS Code",
+    "description": "A theme like you've never seen!",
     "version": "1.4.13",
-    "author": "Ilja Leyberman",
-    "publisher": "TheCodemonkey",
+    "author": "Sundragon the Scribe",
+    "publisher": "sundragontech",
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thecodemonkey/synthwave-x-fluoromachine-epic-animations/"
+        "url": "https://github.com/amunrarara/synthdragon-vscode-theme"
     },
     "engines": {
         "vscode": "^1.33.0"
@@ -28,9 +28,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Synthwave x Fluoromachine & epic animations",
+                "label": "Awaken The Synth-Dragon",
                 "uiTheme": "vs-dark",
-                "path": "./themes/synthwave-x-fluoromachine.json"
+                "path": "./themes/synthdragon.json"
             }
         ]
     },
